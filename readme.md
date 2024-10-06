@@ -1,5 +1,5 @@
 NEURON mod files for the Na, K-A, and K-DR currents from the paper:
-Safronov and Vogel, J.Physiol. 487:91-106 (1995).
+Safronov and Vogel, *J.Physiol*. 487:91-106 (1995).
 
 - Running the kinetics_na.hoc or kinetics_k.hoc simulation files 
 will show the activation and inactivation steady-states, 
@@ -31,3 +31,7 @@ authors.
 
 Questions on how to use this model with NEURON
 should be directed to michele@pa.ibf.cnr.it
+
+Changelog:
+----------
+2024-10: Converted readme to markdown
